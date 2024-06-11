@@ -1,4 +1,5 @@
 Overview
+
 This project, titled "If the IMF is not the Monster, who Is?", investigates the multifaceted role of the International Monetary Fund (IMF) in the global economy, its lending practices, and the political dynamics influencing its operations. It aims to demystify the common perception of the IMF as a draconian enforcer of austerity, examining instead the broader context and identifying the various actors and factors at play.
 
 Research Focus
