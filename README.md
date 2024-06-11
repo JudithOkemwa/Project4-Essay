@@ -5,27 +5,35 @@ This project, titled "If the IMF is not the Monster, who Is?", investigates the 
 Research Focus
 
 Impact of International Politics on IMF Lending: 
+
 Examines how international political alignments, particularly the influence of the United States, affect IMF lending decisions and practices.
 
 IMF Governance and Accountability: 
+
 Analyzes the governance structure of the IMF, highlighting issues such as non-responsiveness, lack of accountability, and the need for comprehensive reforms to better align with its evolving role.
 
 Effectiveness and Criticisms of IMF Programs: 
+
 Investigates why IMF programs often fail to achieve their goals, considering factors like the implementation of conditions, political influences, and the moral hazard created by IMF lending practices.
 
 Historical and Structural Analysis: 
+
 The historical perspective of the IMF’s evolution, its shift from a monetary organization to a development financing institution, and the resulting structural distortions.
 
 Key Insights
+
 International Politics and IMF Lending: Thacker (1999) demonstrates that IMF lending is heavily influenced by the political interests of industrialized nations, particularly the U.S., which uses the IMF to further its international agenda.
 
 Governance Issues: 
+
 Bradlow (2006) argues that the IMF’s governance is plagued by non-representative decision-making, lack of accountability, and an outdated structure that fails to address the needs of a changing global economy.
 
 Program Implementation Failures: 
+
 Stone (2004) highlights that the failure of IMF programs is often due to inconsistent enforcement of conditions and political pressures, rather than inherently flawed policies.
 
 Need for Reform: 
+
 The research collectively underscores the need for significant reforms in IMF governance and operations to enhance its effectiveness and credibility in the global financial system.
 
 Conclusion
